@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![[Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/3742fba5eb0ca8e31e31d31588f7b353.jpg)](https://www.linkedin.com/in/anastasiia-zubarieva/)
+[![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/header.png)](https://www.linkedin.com/in/anastasiia-zubarieva/)
 
 
 
