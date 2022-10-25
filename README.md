@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ##  I'm QA Engineer. I haven't got much experience, but it is the only thing I miss. I am passionate about testing and I believe that testing is the most important process in SDLC. 
 
-Languages and Tools
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-436D95?style=flat-square&logo=python&logoColor=FFD809)
 
 Follow Me
