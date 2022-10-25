@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+![[Header](https://raw.githubusercontent.com/AnastasiiaZubarieva/anastasiiazubarieva/main/assets/3742fba5eb0ca8e31e31d31588f7b353.jpg)](https://www.linkedin.com/in/anastasiia-zubarieva/)
+
+
 
 About me
 
