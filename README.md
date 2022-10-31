@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/Header_image.svg)](https://www.linkedin.com/in/anastasiia-zubarieva/)
+[![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/Header.png)](https://www.linkedin.com/in/anastasiia-zubarieva/)
 
 ## 👋 Hi there
 ### I believe that testing is the most important process in the Software Development Life Cycle
