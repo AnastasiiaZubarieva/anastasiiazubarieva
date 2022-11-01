@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 ![TestRail](https://img.shields.io/badge/-TestRail-5F2580?style=for-the-badge&logo=TestRail&logoColor=BC71F3)
 ![Jira](https://img.shields.io/badge/-Jira-5F2580?style=for-the-badge&logo=Jira&logoColor=049BE4)
 ![Git](https://img.shields.io/badge/-GitHub-5F2580?style=for-the-badge&logo=GitHub&logoColor=679ED2)
+![DevTools](https://img.shields.io/badge/-DevTools-5F2580?style=for-the-badge&logo=googleChrome&logoColor=679ED2)
 
 ## 📌 Follow Me
-![Linkedin](https://img.shields.io/badge/-Linkedin-5F2580?style=for-the-badge&logo=Linkedin&logoColor=62B1D0)
-![Telegram](https://img.shields.io/badge/-Telegram-5F2580?style=for-the-badge&logo=Telegram&logoColor=FFF800)
-![Instagram](https://img.shields.io/badge/-Instagram-5F2580?style=for-the-badge&logo=Instagram&logoColor=D0006E)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-5F2580?style=for-the-badge&logo=Linkedin&logoColor=62B1D0)](https://www.linkedin.com/in/anastasiia-zubarieva/)
+[![Telegram](https://img.shields.io/badge/-Telegram-5F2580?style=for-the-badge&logo=Telegram&logoColor=FFF800)](https://t.me/anliinyk)
+[![Instagram](https://img.shields.io/badge/-Instagram-5F2580?style=for-the-badge&logo=Instagram&logoColor=D0006E)](https://www.instagram.com/an_cooper/)
