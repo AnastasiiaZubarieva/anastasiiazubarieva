@@ -19,15 +19,22 @@ Here are some ideas to get you started:
 ### I believe that testing is the most important process in the Software Development Life Cycle
 
 ## 📄 Look at the my CV
-#### 🔹 [My CV](*link to CV*)
+#### 🟣 [My CV](*link to CV*)
 
 ## 👩‍🎓 Certificates
-#### 🔹 [Link to my Certificates](https://drive.google.com/drive/folders/1Madq1y6tu5E-nsfHqM6OWtVtLHaYZuKb?usp=sharing)
+#### 🟣 [Link to my Certificates](https://drive.google.com/drive/folders/1Madq1y6tu5E-nsfHqM6OWtVtLHaYZuKb?usp=sharing)
 
 ## 🗃️ Testing Documentation
-#### 🔹 [Checklists]()
-#### 🔹 [Test-Suites and Test-Cases]()
-#### 🔹 [Bug-Reports]()
+#### 🟣 [Checklists]()
+#### 🟣 [Test-Suites and Test-Cases]()
+#### 🟣 [Bug-Reports]()
+
+## 💡 Pet Projects
+#### 🟣 [The first one](https://github.com/AnastasiiaZubarieva/first_test_project)
+##### UI-tests for website pages for checking main functionality
+#### 🟣 [The second one](https://github.com/AnastasiiaZubarieva/automation_email)
+##### UI-test for unfollowing the newsletter on Gmail
+###### P.S. All tests were created by the design pattern Page Object Model 
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-5F2580?style=for-the-badge&logo=python&logoColor=FFF800)
