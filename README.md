@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🗃️ Testing Documentation
 #### 🟣 [Checklists](https://docs.google.com/spreadsheets/d/1js2DB-gkFLGObvxXd-HANj273QM6YkmN/edit?usp=sharing&ouid=109460108293198290434&rtpof=true&sd=true)
-#### 🟣 [Test-Suites and Test-Cases](https://www.notion.so/Test-Suits-f8ccbc6122394672af6a134477c5b615)
+#### 🟣 [Test-Suites and Test-Cases](https://scarce-rowboat-e3b.notion.site/Test-Suits-f8ccbc6122394672af6a134477c5b615)
 #### 🟣 [Bug-Reports](https://anastasiiazubarieva.github.io/)
 
 ## 💡 Pet Projects
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/-Jira-5F2580?style=for-the-badge&logo=Jira&logoColor=049BE4)
 ![Git](https://img.shields.io/badge/-GitHub-5F2580?style=for-the-badge&logo=GitHub&logoColor=679ED2)
 ![DevTools](https://img.shields.io/badge/-DevTools-5F2580?style=for-the-badge&logo=googleChrome&logoColor=679ED2)
+![Notion](https://img.shields.io/badge/-Notion-5F2580?style=for-the-badge&logo=Notion&logoColor=00000)
 
 ## 📌 Follow Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-5F2580?style=for-the-badge&logo=Linkedin&logoColor=62B1D0)](https://www.linkedin.com/in/anastasiia-zubarieva/)
