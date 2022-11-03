@@ -19,21 +19,19 @@ Here are some ideas to get you started:
 ### I believe that testing is the most important process in the Software Development Life Cycle
 
 ## 📄 Look at the my CV
-#### 🟣 [My CV](*link to CV*)
+#### 🟣 [My CV](https://drive.google.com/file/d/1damT2ZnpjUNfqBn6o6Jl6dBwrDq6dZxg/view?usp=sharing)
 
 ## 👩‍🎓 Certificates
 #### 🟣 [Link to my Certificates](https://drive.google.com/drive/folders/1Madq1y6tu5E-nsfHqM6OWtVtLHaYZuKb?usp=sharing)
 
 ## 🗃️ Testing Documentation
-#### 🟣 [Checklists]()
-#### 🟣 [Test-Suites and Test-Cases]()
-#### 🟣 [Bug-Reports]()
+#### 🟣 [Checklists](https://docs.google.com/spreadsheets/d/1js2DB-gkFLGObvxXd-HANj273QM6YkmN/edit?usp=sharing&ouid=109460108293198290434&rtpof=true&sd=true)
+#### 🟣 [Test-Suites and Test-Cases](https://www.notion.so/Test-Suits-f8ccbc6122394672af6a134477c5b615)
+#### 🟣 [Bug-Reports](https://anastasiiazubarieva.github.io/)
 
 ## 💡 Pet Projects
-#### 🟣 [The first one](https://github.com/AnastasiiaZubarieva/first_test_project)
-##### UI-tests for website pages for checking main functionality
-#### 🟣 [The second one](https://github.com/AnastasiiaZubarieva/automation_email)
-##### UI-test for unfollowing the newsletter on Gmail
+#### 🟣 [The first one](https://github.com/AnastasiiaZubarieva/first_test_project) These are UI tests for website pages for checking the main functionality
+#### 🟣 [The second one](https://github.com/AnastasiiaZubarieva/automation_email) This is UI-test for unfollowing the newsletter on Gmail
 ###### P.S. All tests were created by the design pattern Page Object Model 
 
 ## 🛠️ Languages and Tools
