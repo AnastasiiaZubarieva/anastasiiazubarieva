@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 #### 🟣 [Checklists](https://docs.google.com/spreadsheets/d/1js2DB-gkFLGObvxXd-HANj273QM6YkmN/edit?usp=sharing&ouid=109460108293198290434&rtpof=true&sd=true)
 #### 🟣 [Test-Suites and Test-Cases](https://scarce-rowboat-e3b.notion.site/Test-Suits-f8ccbc6122394672af6a134477c5b615)
 #### 🟣 [Bug-Reports](https://anastasiiazubarieva.github.io/)
+#### 🟣 [SQL Queries](https://scarce-rowboat-e3b.notion.site/SQL-Queries-147e7c212aec4df09f677e28ab2cfd4c)
 
 ## 💡 Pet Projects
 #### 🟣 [The first one](https://github.com/AnastasiiaZubarieva/first_test_project) These are UI tests for website pages for checking the main functionality
