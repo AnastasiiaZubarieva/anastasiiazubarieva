@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 #### 🟣 [SQL Queries](https://scarce-rowboat-e3b.notion.site/SQL-Queries-147e7c212aec4df09f677e28ab2cfd4c)
 
 ## 💡 Pet Projects
+#### 🟣 [The Stickman](https://github.com/AnastasiiaZubarieva/StickmanGame.git) The simple silly game about the Stickman who runs and jumps
 #### 🟣 [The first one](https://github.com/AnastasiiaZubarieva/first_test_project) These are UI tests for website pages for checking the main functionality
 #### 🟣 [The second one](https://github.com/AnastasiiaZubarieva/automation_email) This is UI-test for unfollowing the newsletter on Gmail
 ###### P.S. All tests were created by the design pattern Page Object Model 
