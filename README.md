@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there
 ### I believe that testing is the most important process in the Software Development Life Cycle
 
-## 📄 Look at the my CV
+## 📄 Look at my CV
 #### 🟣 [My CV](https://drive.google.com/file/d/1damT2ZnpjUNfqBn6o6Jl6dBwrDq6dZxg/view?usp=sharing)
 
 ## 👩‍🎓 Certificates
