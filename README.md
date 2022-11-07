@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/Header.png)](https://www.linkedin.com/in/anastasiia-zubarieva/)
 
 ## 👋 Hi there
-### Here you can find samples of my test documentation, information about my achievements, and my Pet Projects. I hope this information helps you to see my preparation and readiness to work on the real project.
+### Here you can find samples of my test documentation, information about my achievements, and my Pet Projects. I hope this information helps you to see my preparation and readiness to work on a real project.
 ## 📄 Look at my CV
 #### 🟣 [My CV](https://drive.google.com/file/d/1damT2ZnpjUNfqBn6o6Jl6dBwrDq6dZxg/view?usp=sharing)
 
