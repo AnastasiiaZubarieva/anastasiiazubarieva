@@ -36,7 +36,6 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-5F2580?style=for-the-badge&logo=googleChrome&logoColor=679ED2)
 ![Notion](https://img.shields.io/badge/-Notion-5F2580?style=for-the-badge&logo=Notion&logoColor=00000)
 ![Miro](https://img.shields.io/badge/-Miro-5F2580?style=for-the-badge&logo=Miro&logoColor=090342)
-![EdrawMind](https://img.shields.io/badge/-EdrawMind-5F2580?style=for-the-badge&logo=Edraw&logoColor=090342)
 
 ## 📌 Follow Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-5F2580?style=for-the-badge&logo=Linkedin&logoColor=62B1D0)](https://www.linkedin.com/in/anastasiia-zubarieva/)
