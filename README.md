@@ -1,18 +1,3 @@
-<!--
-**AnastasiiaZubarieva/anastasiiazubarieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/Header.png)](https://www.linkedin.com/in/anastasiia-zubarieva/)
 
 ## 👋 Hi there
@@ -50,6 +35,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-GitHub-5F2580?style=for-the-badge&logo=GitHub&logoColor=679ED2)
 ![DevTools](https://img.shields.io/badge/-DevTools-5F2580?style=for-the-badge&logo=googleChrome&logoColor=679ED2)
 ![Notion](https://img.shields.io/badge/-Notion-5F2580?style=for-the-badge&logo=Notion&logoColor=00000)
+![Miro](https://img.shields.io/badge/-Miro-5F2580?style=for-the-badge&logo=Miro&logoColor=090342)
+![EdrawMind](https://img.shields.io/badge/-EdrawMind-5F2580?style=for-the-badge&logo=Edraw&logoColor=090342)
 
 ## 📌 Follow Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-5F2580?style=for-the-badge&logo=Linkedin&logoColor=62B1D0)](https://www.linkedin.com/in/anastasiia-zubarieva/)
