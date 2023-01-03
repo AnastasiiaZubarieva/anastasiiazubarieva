@@ -5,6 +5,11 @@
 ## 📄 Look at my CV
 #### 🟣 [My CV](https://drive.google.com/file/d/1damT2ZnpjUNfqBn6o6Jl6dBwrDq6dZxg/view?usp=sharing)
 
+## 🎮 Game Projects
+#### 🟣 [Putinist Slayer](http://pslayer.com/)
+#### 🟣 [The Safe Place](https://store.steampowered.com/app/1917830/The_Safe_Place/?l=ukrainian)
+#### 📝 [Documentation](https://scarce-rowboat-e3b.notion.site/Game-projects-documentation-d379b01dd3534c7b9fd325406b94d993)
+
 ## 👩‍🎓 Certificates
 #### 🟣 [Link to my Certificates](https://drive.google.com/drive/folders/1Madq1y6tu5E-nsfHqM6OWtVtLHaYZuKb?usp=sharing)
 
