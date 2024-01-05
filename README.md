@@ -1,11 +1,12 @@
 [![Header](https://github.com/AnastasiiaZubarieva/anastasiiazubarieva/blob/main/assets/Header.png)](https://www.linkedin.com/in/anastasiia-zubarieva/)
 
 ## 👋 Hi there
+### Currently, I'm working as a QA Engineer at DogHowl Games on creating the new game, Level Zero. More information about the game can be found on [the official DogHowl website](https://doghowlgames.com/)
 ### Here you can find samples of my test documentation, information about my achievements, and my Pet Projects
 ## 📄 Look at my CV
 #### 🟣 [My CV](https://drive.google.com/file/d/1damT2ZnpjUNfqBn6o6Jl6dBwrDq6dZxg/view?usp=sharing)
 
-## 🎮 Game Projects
+## 🎮 Game Projects before Level Zero
 #### 🟣 [Putinist Slayer](http://pslayer.com/)
 #### 🟣 [The Safe Place](https://store.steampowered.com/app/1917830/The_Safe_Place/?l=ukrainian)
 #### 📝 [Documentation](https://scarce-rowboat-e3b.notion.site/Game-projects-documentation-d379b01dd3534c7b9fd325406b94d993)
